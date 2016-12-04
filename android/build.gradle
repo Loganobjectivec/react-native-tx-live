@@ -30,6 +30,5 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile files('src/main/jniLibs/txrtmpsdk.jar')
+    compile files('../../../android/app/src/main/jniLibs/txrtmpsdk.jar')
 }
-  
