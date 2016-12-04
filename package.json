@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-tx-live",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tenxun live sdk for react native",
   "main": "index.js",
   "scripts": {
