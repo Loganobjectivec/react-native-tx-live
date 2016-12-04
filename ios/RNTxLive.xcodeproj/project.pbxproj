@@ -234,7 +234,7 @@
 					"$(SRCROOT)/../../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/TXRTMPSDK.framework/**",
-					"$(SRCROOT)/../../../ios/TXRTMPSDK.framework",
+					"$(SRCROOT)/../../../ios/TXRTMPSDK.framework/**",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
@@ -259,7 +259,7 @@
 					"$(SRCROOT)/../../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/TXRTMPSDK.framework/**",
-					"$(SRCROOT)/../../../ios/TXRTMPSDK.framework",
+					"$(SRCROOT)/../../../ios/TXRTMPSDK.framework/**",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
